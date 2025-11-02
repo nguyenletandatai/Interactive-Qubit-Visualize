@@ -1,0 +1,5 @@
+{
+  "name": "Qubit Visualizer",
+  "description": "An interactive Bloch sphere visualization for a single qubit state. Adjust the theta and phi angles to see how the quantum state vector changes in real-time.",
+  "requestFramePermissions": []
+}
